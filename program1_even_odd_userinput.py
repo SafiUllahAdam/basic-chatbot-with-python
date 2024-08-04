@@ -9,6 +9,6 @@ while value>0:
     else:
         print("The Number you enter " ,value, "is ODD")
         
-    value=int(input("Enter the Value : ")) # to save yourself from running the code again & again and checking even or odd numbers, we have to put user input value again after loop. This will also break the continous sycle of loop in case of condition met
+    value=int(input("Enter the Value : ")) # to save yourself from running the code again & again and checking even or odd numbers, we have to put user input value again after loop. This will also break the continous cycle of loop in case of condition met
     
 print("OOPS The Number you enter " ,value, "is Negative. Please Enter a Positive Number")

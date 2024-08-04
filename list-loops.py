@@ -1,4 +1,4 @@
- #All data-types we studies till now int, float, string were Primitive data-types
+ #All data-types we studied till now int, float, string were Primitive data-types
  #(Primitive)These are the most basic data structures and serve as the building blocks for data manipulation.
  #(List data-types)These are more complex structures that include We can save multiple primitives in it: List, tuple, array, dictionaries
  

@@ -3,7 +3,7 @@
 sum = int(0)
 
 for i in range (1,6):
-    sum = sum + i
+    sum += i
     
 print("Sum of 1st 5 natural numbers is :", sum)
 
